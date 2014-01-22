@@ -3,9 +3,11 @@ var pepe = {
 		"moreOptions": {
 			"available": true,
 			"markets": []
-		}
+		};
 };
 
 pepe.moreOptions.available = false;
+
+
 
 pepe;

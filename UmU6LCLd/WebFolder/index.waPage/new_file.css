@@ -1,3 +1,10 @@
 body {
-
+	width: auto;
 }
+
+#main-content {
+	color: red;
+	width: 300px;
+	padding: 100px;
+}
+
